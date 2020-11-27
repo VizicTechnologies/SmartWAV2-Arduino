@@ -5,7 +5,7 @@
 
 /Open and compile any example, once it's loaded into the arduino, just press the external RESET switch on the arduino to run the example.
 
-/IMPORTANT!!!! All examples require pre-loaded audio files into the microSD card, those files are inside each folder of sketch that need images or text files.
+/IMPORTANT!!!! All examples require pre-loaded audio files into the microSD card.
 
 /**************************************************************/
 Be sure to place first the SMARTWAV2 library, the entire folder(SMARTWAV2)
